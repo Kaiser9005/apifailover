@@ -12,11 +12,11 @@ Pure Python. **Zero dependencies.** Fully type-hinted. Works with *any* callable
 — prices, weather, geocoding, sports data, LLM endpoints — it doesn't know or
 care about your domain.
 
-> **Package name:** published as `apifailover` (verified available on PyPI at
-> time of writing). If it's been claimed by the time you publish, good
-> alternatives — also available — are **`failover-engine`** and
-> **`multifailover`**. (`apiguard` is taken.) Pick one and update `name` in
-> `pyproject.toml` + the install line below.
+[![PyPI](https://img.shields.io/pypi/v/apifailover.svg)](https://pypi.org/project/apifailover/)
+[![Python](https://img.shields.io/pypi/pyversions/apifailover.svg)](https://pypi.org/project/apifailover/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> **Live on PyPI:** [`pip install apifailover`](https://pypi.org/project/apifailover/) — v0.1.0, zero dependencies, 19 offline tests.
 
 ## Why this exists
 
